@@ -33,6 +33,7 @@ async def on_message(message):
                     "content": promt
                 }
         ],
+        max_tokens=3000
     ).choices[0].message.content
 
     print(promt)
