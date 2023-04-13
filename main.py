@@ -39,6 +39,6 @@ async def on_message(message):
     print(promt)
     print(response)
 
-    await message.reply(api_response, mention_author=False)
+    await message.reply(api_response, mention_author=True)
 
 client.run(TOKEN)
