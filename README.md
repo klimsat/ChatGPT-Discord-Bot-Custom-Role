@@ -41,7 +41,7 @@ cd ChatGPT-Discord-Bot-Custom-Role</pre>
 
 7. Пригласить бота на ваш сервер
 
-## Шаг 2. Получить OpenAI API токен
+## Шаг 2. Получение OpenAI API токена
 ### Генерация OpenAI API токена
 1. Необходимо зарегистрироваться на платформе https://platform.openai.com
 2. Перейти на https://beta.openai.com/account/api-keys
